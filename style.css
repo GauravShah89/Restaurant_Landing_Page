@@ -65,6 +65,10 @@ body{
   cursor: pointer;
 }
 
+.button:hover{
+  color: white;
+}
+
 .bottom{
   display: block;
   position: absolute;
